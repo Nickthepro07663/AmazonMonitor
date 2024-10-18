@@ -1,6 +1,6 @@
 {
   "prefix":"!",
-  "token":"my_bot_token",
+  "token":"my_botn",
   "minutes_per_check":2,
   "seconds_between_check": 5,
   "url_params":{},
